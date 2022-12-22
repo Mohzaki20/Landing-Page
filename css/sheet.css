@@ -294,6 +294,7 @@ body {
         width: 100%;
         border-radius: 4px;
         text-align: left;
+        z-index:100;
     }
 
     .header-area .toggle-menu {
